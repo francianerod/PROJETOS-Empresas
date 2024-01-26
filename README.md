@@ -1,2 +1,2 @@
 # Empresas_gerais
-Segue outros projetos realizados sob demanda para empresas
+Segue outros projetos realizados sob demanda para empresas usando diferentes tecnologias.
