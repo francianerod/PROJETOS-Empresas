@@ -1,5 +1,5 @@
 # Empresas_gerais
-Segue outros projetos realizados sob demanda para empresas usando diferentes tecnologias (Python, Power BI, Looker Studio e Google Sheets)
+Outros projetos realizados sob demanda para empresas usando diferentes tecnologias (Python, Power BI, Looker Studio e Google Sheets)
 
 Dashboard Agricultura: Empresa Meteoblue do Brasil
 
