@@ -5,7 +5,7 @@ Dashboard Agricultura: Empresa Meteoblue do Brasil
 
 Link: https://app.powerbi.com/view?r=eyJrIjoiNTUxNDFlOGUtMzY3YS00MjliLWJmYjMtZjQ1YjY0ZDcwYzg2IiwidCI6IjQ5M2JlOTFkLTYwYjMtNDg4NC05YzcyLTVhM2UwNDQ2ZTA3MSJ9
 
-Dashboard Clima: Empresa SEMADESC (antiga SEMAGRO)
+Dashboard Clima: Instituição Governamental SEMADESC (Antiga SEMAGRO)
 
 Link: https://app.powerbi.com/view?r=eyJrIjoiOWZiZjE1ZGEtNGI4ZC00NzZhLTkwMWQtYmM5YmU4ZGJiYzI4IiwidCI6IjQ5M2JlOTFkLTYwYjMtNDg4NC05YzcyLTVhM2UwNDQ2ZTA3MSJ9
 
@@ -16,4 +16,8 @@ Link: https://app.powerbi.com/view?r=eyJrIjoiMmE2MzljZDItMzQzNy00MmJlLTk0OWUtNTR
 Dashboad Assinaturas: Empresa SoulCode Academy
 
 Link: https://lookerstudio.google.com/reporting/0bdc0001-ec57-4964-9a53-d35e35ff189e/page/rIJPD
+
+Dashboard Previsão do Tempo: Instituição Governamental SEMADESC (Antiga SEMAGRO)
+
+Link: https://agenciadenoticias.ms.gov.br/ar-seco-e-temperaturas-elevadas-predominam-nesta-segunda-feira/
 
